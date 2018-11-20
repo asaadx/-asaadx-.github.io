@@ -1,0 +1,10 @@
+/** BASE style **/
+section {
+    padding-top: 40px;
+    padding-bottom: 40pa;
+    }
+    /** HEADER **/
+#header {
+background-image: url(img/header.jpg);
+background-color: black;
+    }

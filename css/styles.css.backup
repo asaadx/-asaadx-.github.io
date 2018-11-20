@@ -1,0 +1,76 @@
+form {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-width: 3px;
+}
+img:hover { border: 1px black solid}
+img:active { border: 1px black solid}
+img:visited { border: 1px black solid}
+/** BASE STYLE **/
+section {
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/** HEADER **/
+header {
+    background-image: url(../img/header.jpg) background-color: black;
+
+    min-height: 700px;
+    color: white;
+    padding-top: 160px;
+
+}
+
+p {
+    font-size: 2em;
+}
+
+form {
+    border-color: white;
+    color: black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px border-radius: 10px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+/** SECTION **/
+
+p {
+    color: white;
+    margin-top: 100px;
+    width: 5px;
+    margin-top: 100px;
+    width: 5px;
+}
+h6{
+    color: #0475ba;
+
+}
+
+/** TEAM **/
+p {
+    text-align: center;
+}
+
+p {
+    height: 100;
+    width: 100;
+    border-radius: 50px;
+    margin-bottom: 15px;
+}
+/** PIED DE PAGE **/
+footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    box-shadow: 60px -16px black;
+}
